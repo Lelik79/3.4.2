@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3.4.2</string>
+    <string name="textView">Здесь могла бы быть ваша реклама </string>
+    <string name="Margin1">Крупный</string>
+    <string name="Margin3">Средний</string>
+    <string name="Margin10">Мелкий</string>
+    <string name="buttonOK">Тык</string>
+
+</resources>
